@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  background:whitesmoke
+}
+header{
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: linear-gradient(to right, #2a0845, #6441A5);
+  
+}
+
+header img{
+  height: 80%;
+  margin-left: 10%;
+}
+header p{
+  font-family: VT323, monospace;
+  color: whitesmoke;
+  font-size: 50px;
+  margin-left: 60px;
+}
